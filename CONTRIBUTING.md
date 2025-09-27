@@ -1,4 +1,4 @@
-# Contributing to Swift
+# Contributing to zwift
 
 Contributions to Swift are welcomed and encouraged!
 For contributions to the broader Swift project, please see the
