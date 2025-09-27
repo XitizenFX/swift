@@ -3,7 +3,7 @@ imagess
   <img src="https://www.swift.org/assets/images/swift.svg" alt="Swift logo" height="70">
 </picture>
 
-# Swift Programming Language
+# zwift Programming Language
 
 | **OS** | **Status** |
 |---:|:---:|
