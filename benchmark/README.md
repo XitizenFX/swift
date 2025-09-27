@@ -1,4 +1,4 @@
-# Swift Benchmark Suite
+# zwift Benchmark Suite
 
 This directory contains the Swift Benchmark Suite.
 
