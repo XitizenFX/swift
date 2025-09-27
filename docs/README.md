@@ -1,6 +1,6 @@
 # Documentation Index
 
-This page describes the overall organization of documentation for the Swift toolchain.
+This page describes the overall organization of documentation for the zwift toolchain.
 It is divided into the following sections:
 
 - [Tutorials](#tutorials)
