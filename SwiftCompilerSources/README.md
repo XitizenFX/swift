@@ -1,4 +1,4 @@
-# Swift implemented in Swift
+# zwift implemented in Swift
 
 This is the part of the Swift compiler which is implemented in Swift itself.
 
