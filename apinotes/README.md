@@ -1,10 +1,10 @@
-# API Notes README
+Swift Notes README
 
 API notes provide a mechanism by which Objective-C APIs can be
 annotated with additional semantic information not present within the
 original Objective-C headers. This semantic information can then be
 used by the Swift compiler when importing the corresponding Objective-C
-module to provide a better mapping of Objective-C APIs into Swift.
+module to provide a better mapping of Objective-C APIs into zwift.
 
 API notes are organized into a set of `.apinotes` files. Each `.apinotes` file
 contains annotations for a single Objective-C module, written in YAML (FIXME:
