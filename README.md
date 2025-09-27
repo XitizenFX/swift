@@ -1,5 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.swift.org/assets/images/swift~dark.svg">
+imagess
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.swift.org/assets/images/gswift~dark.svg">
   <img src="https://www.swift.org/assets/images/swift.svg" alt="Swift logo" height="70">
 </picture>
 
